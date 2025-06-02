@@ -1,10 +1,24 @@
-# vanilla3-icons
+# Vanilla3 Icons for VS Code
 
-[Vanilla3 Icons](https://elttob.itch.io/vanilla-3-for-roblox-studio "Complete Vanilla3 icons pack for Roblox Studio") was originally created by Studio Elttob for use in Roblox Studio. As a fan of these in Roblox Studio, I have deicded to port them to VSCode for use with rojo projects.
+[Vanilla3 Icons](https://elttob.itch.io/vanilla-3-for-roblox-studio) was originally created by Studio Elttob for use in Roblox Studio.  
+This extension brings the Vanilla3 icon style to the VS Code explorer, making it look more like Roblox Studio.
 
-## Installation
+## Credits
 
+- Original icons by [Studio Elttob](https://elttob.itch.io/vanilla-3-for-roblox-studio).
+- VS Code icon theme concept and inspiration taken from [Zetta](https://github.com/zetta-dev/zetta-icons) (please update with the correct link if needed).
+- Ported and modified by [tanva2009](https://github.com/tanva2009).
 
-## Contributing
+## Features
 
-Anything goes. Any type of icon you would like to see added or modified, just use the original pack linked [here](https://elttob.itch.io/vanilla-3-for-roblox-studio) to make your change and submit a pull request.
+- Custom file and folder icons inspired by Roblox Studio's Vanilla3 theme.
+- Easy to enable via the VS Code icon theme picker.
+
+## How to Use
+
+1. Install the extension from the VSIX file or Marketplace.
+2. Open the Command Palette (`Ctrl+Shift+P`).
+3. Search for `File Icon Theme` and select **Vanilla3 Icons**.
+
+---
+*This project is not affiliated with or endorsed by Studio Elttob, Zetta, or Roblox Corporation.*
