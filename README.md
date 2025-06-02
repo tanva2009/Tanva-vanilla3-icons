@@ -6,7 +6,7 @@ This extension brings the Vanilla3 icon style to the VS Code explorer, making it
 ## Credits
 
 - Original icons by [Studio Elttob](https://elttob.itch.io/vanilla-3-for-roblox-studio).
-- VS Code icon theme concept and inspiration taken from [Zetta](https://github.com/zetta-dev/zetta-icons) (please update with the correct link if needed).
+- VS Code icon theme concept and inspiration taken from [Vanilla3 Icons](https://marketplace.visualstudio.com/items?itemName=zettacache.vanilla3-icons) by Zetta .
 - Ported and modified by [tanva2009](https://github.com/tanva2009).
 
 ## Features
