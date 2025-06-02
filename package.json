@@ -1,0 +1,24 @@
+{
+    "name": "tanva-roblox-vanilla3-icons",
+    "displayName": "Vanilla3 Icons",
+    "description": "a port of Roblox (Vanilla3)[https://elttob.itch.io/vanilla-3-for-roblox-studio]",
+    "version": "0.0.1",
+    "icon": "folder-src.png",
+    "publisher": "tanva2009",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yourusername/tanva-vanilla3-icons.git"
+    },
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "vanilla3-icons",
+                "label": "Vanilla3 Icons",
+                "path": "./icons/vanilla3-icons.json"
+            }
+        ]
+    }
+}
