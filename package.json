@@ -1,0 +1,28 @@
+{
+    "name": "tanva-roblox-vanilla3-icons",
+    "displayName": "Vanilla3 Icons",
+    "description": "just a Vanilla3 Roblox icons",
+    "version": "0.0.2",
+    "icon": "./icons/folder-src.png",
+    "publisher": "tanva2009",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tanva2009/Tanva-vanilla3-icons.git"
+    },
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "vanilla3-icons",
+                "label": "Vanilla3 Icons",
+                "path": "./icons/vanilla3-icons.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "@vscode/test-cli": "^0.0.11",
+        "@vscode/test-electron": "^2.5.2"
+    }
+}

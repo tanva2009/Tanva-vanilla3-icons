@@ -1,0 +1,197 @@
+{
+    "iconDefinitions": {
+        "_ext_ts": {
+            "iconPath": "ext-ts.png"
+        },
+        "_ext_client_ts": {
+            "iconPath": "ext-client-ts.png"
+        },
+        "_ext_server_ts": {
+            "iconPath": "ext-server-ts.png"
+        },
+        "_ext_controller_ts": {
+            "iconPath": "ext-controller-ts.png"
+        },
+        "_ext_service_ts": {
+            "iconPath": "ext-service-ts.png"
+        },
+        "_ext_d_ts": {
+            "iconPath": "ext-d-ts.png"
+        },
+        "_ext_tsx": {
+            "iconPath": "ext-tsx.png"
+        },
+        "_ext_md": {
+            "iconPath": "ext-md.png"
+        },
+
+        "_file": {
+            "iconPath": "file.png"
+        },
+        "_file_package_json": {
+            "iconPath": "file-package-json.png"
+        },
+        "_file_default_project_json": {
+            "iconPath": "file-default-project-json.png"
+        },
+        "_file_tsconfig_json": {
+            "iconPath": "file-tsconfig-json.png"
+        },
+        "_file_network_ts": {
+            "iconPath": "file-network-ts.png"
+        },
+
+        "_folder": {
+            "iconPath": "folder.png"
+        },
+        "_folder_src": {
+            "iconPath": "folder-src.png"
+        },
+        "_folder_types": {
+            "iconPath": "folder-types.png"
+        },
+        "_folder_client": {
+            "iconPath": "folder-client.png"
+        },
+        "_folder_server": {
+            "iconPath": "folder-server.png"
+        },
+        "_folder_shared": {
+            "iconPath": "folder-shared.png"
+        },
+        "_folder_components": {
+            "iconPath": "folder-components-yellow.png"
+        },
+        "_folder_singletons": {
+            "iconPath": "folder-singletons-yellow.png"
+        },
+        "_folder_cmdr": {
+            "iconPath": "folder-cmdr.png"
+        },
+        "_folder_cmdr_commands": {
+            "iconPath": "folder-cmdr-commands.png"
+        },
+
+        "_folder_replicatedfirst": {
+            "iconPath": "folder-replicatedfirst.png"
+        },
+        "_folder_replicatedstorage": {
+            "iconPath": "folder-replicatedstorage.png"
+        },
+        "_folder_serverscriptservice": {
+            "iconPath": "folder-serverscriptservice.png"
+        },
+        "_folder_serverstorage": {
+            "iconPath": "folder-serverstorage.png"
+        },
+        "_folder_startercharacterscripts": {
+            "iconPath": "folder-startercharacterscripts.png"
+        },
+        "_folder_starterplayerscripts": {
+            "iconPath": "folder-starterplayerscripts.png"
+        },
+        "_folder_workspace": {
+            "iconPath": "folder-workspace.png"
+        },
+        "_folder_starterplayer": {
+            "iconPath": "folder-starterplayer.png"
+        },
+        "_folder_starterpack": {
+            "iconPath": "folder-starterpack.png"
+        },
+        "_folder_startergui": {
+            "iconPath": "folder-startergui.png"
+        },
+        "_folder_lighting": {
+            "iconPath": "folder-lighting.png"
+        },
+        "_folder_terrain": {
+            "iconPath": "folder-terrain.png"
+        },
+        "_folder_testservice": {
+            "iconPath": "folder-testservice.png"
+        }
+    },
+
+    "file": "_file",
+    "folder": "_folder",
+
+    "fileExtensions": {
+        "ts": "_ext_ts",
+        "lua": "_ext_ts",
+        "luau": "_ext_ts",
+
+        "client.ts": "_ext_client_ts",
+        "client.lua": "_ext_client_ts",
+        "client.luau": "_ext_client_ts",
+
+        "server.ts": "_ext_server_ts",
+        "server.lua": "_ext_server_ts",
+        "server.luau": "_ext_server_ts",
+
+        "controller.ts": "_ext_controller_ts",
+        "controller.lua": "_ext_controller_ts",
+        "controller.luau": "_ext_controller_ts",
+
+        "service.ts": "_ext_service_ts",
+        "service.lua": "_ext_service_ts",
+        "service.luau": "_ext_service_ts",
+
+        "d.ts": "_ext_d_ts",
+
+        "jsx": "_ext_tsx",
+        "tsx": "_ext_tsx",
+
+        "md": "_ext_md"
+    },
+
+    "languageIds": {
+        "lua": "_ext_ts",
+        "luau": "_ext_ts",
+        "ts": "_ext_ts",
+        "jsx": "_ext_tsx",
+        "tsx": "_ext_tsx"
+    },
+
+    "folderNames": {
+        "src": "_folder_src",
+        "types": "_folder_types",
+
+        "client": "_folder_client",
+        "server": "_folder_server",
+        "shared": "_folder_shared",
+
+        "components": "_folder_components",
+        "controllers": "_folder_singletons",
+        "services": "_folder_singletons",
+
+        "cmdr": "_folder_cmdr",
+        "commands": "_folder_cmdr_commands",
+
+        "Workspace": "_folder_workspace",
+        "Terrain": "_folder_terrain",
+        "Lighting": "_folder_lighting",
+        "ReplicatedFirst": "_folder_replicatedfirst",
+        "ReplicatedStorage": "_folder_replicatedstorage",
+        "ServerScriptService": "_folder_serverscriptservice",
+        "ServerStorage": "_folder_serverstorage",
+        "StarterGui": "_folder_startergui",
+        "StarterPack": "_folder_starterpack",
+        "StarterPlayer": "_folder_starterplayer",
+        "StarterCharacterScripts": "_folder_startercharacterscripts",
+        "StarterPlayerScripts": "_folder_starterplayerscripts",
+        "TestService": "_folder_testservice"
+
+
+    },
+
+    "fileNames": {
+        "package.json": "_file_package_json",
+        "default.project.json": "_file_default_project_json",
+        "tsconfig.json": "_file_tsconfig_json",
+
+        "network.ts": "_file_network_ts",
+
+        "cmdr.client.ts": "_folder_cmdr"
+    }
+}
